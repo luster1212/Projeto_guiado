@@ -28,4 +28,11 @@
         width: 100%;
         text-align: center;
     }
+    .xp-line {
+        flex-direction: column;
+    }
+    .xp-line div {
+        display: flex;
+        justify-content: center;
+    }
 }
